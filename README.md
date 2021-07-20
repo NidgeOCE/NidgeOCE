@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NidgeOCE
 - 👀 I’m interested in "Making new friends and help other people"
 - 🌱 I’m currently learning "homecooking"
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m in a long-term Relationship
+- 📫 How to reach to me "On Github! I don't like sharing personal information"
 
 <!---
 NidgeOCE/NidgeOCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
